@@ -11,3 +11,5 @@ Aujourd'hui, huit clubs forment le G.C.I. :
 * Saint Hernot Yacht Club
 * Voiles du Ponant 29
 * Yacht club de la rade de Brest
+
+![logo](logo-gci.png)
